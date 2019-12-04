@@ -1,0 +1,30 @@
+## Author: Lynxium
+## Title: Lynx|cff40a5f7UI|r: Hints
+## Notes: Provides game and character information.
+
+## Interface: 80300
+## Dependencies: LynxUI
+## OptionalDeps: LynxUI_Options
+
+## SavedVariables: LynxUI_HintsDB
+
+Locale\enUS.lua
+
+Main.lua
+
+Storage\Friends.lua
+Storage\Gold.lua
+Storage\GuildFriends.lua
+Storage\Reputation.lua
+
+Scripts\Reputation.lua
+Scripts\Currency.lua
+Scripts\DailyReset.lua
+Scripts\Durability.lua
+Scripts\Experience.lua
+Scripts\Friends.lua
+Scripts\Gold.lua
+Scripts\GuildFriends.lua
+Scripts\Instances.lua
+
+Options.lua
